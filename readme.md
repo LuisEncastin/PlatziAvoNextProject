@@ -3,7 +3,7 @@
 Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
 
 ### 🚀 Logrosdasdsdasdasdads
-HOLAAA MUNDOO SDFSDFSFD
+HOLAAA MUNDOO SDFSDFSFDdfsdf
 
 1. Creación del proyecto
 1. Agrego una ruta básica
